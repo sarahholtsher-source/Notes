@@ -1,5 +1,6 @@
 <div align="center">
-## 📝 Notes App
+
+# 📝 Notes App
 
 [![GitHub stars](https://img.shields.io/github/stars/sarahholtsher-source/Notes?style=flat-square)](https://github.com/sarahholtsher-source/Notes/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/sarahholtsher-source/Notes?style=flat-square)](https://github.com/sarahholtsher-source/Notes/network)
@@ -17,21 +18,21 @@ It supports creating, editing, deleting, and securing notes with a **custom PIN 
 
 ## ✨ Features
 
- 🗒️ Create, edit, and delete notes
- 🔐 Secure notes with a PIN
- 💾 Automatic saving with Room persistence
- 🌙 Modern UI powered by Jetpack Compose
- ⚡ Fast, lightweight, and easy to use
+🗒️ Create, edit, and delete notes
+🔐 Secure notes with a PIN
+💾 Automatic saving with Room persistence
+🌙 Modern UI powered by Jetpack Compose
+⚡ Fast, lightweight, and easy to use
 
 ---
 
 ## 🛠️ Tech Stack
 
- **Kotlin**
- **Jetpack Compose**
- **MVVM Architecture**
- **Room Database**
- **Gradle (KTS)**
+**Kotlin**
+**Jetpack Compose**
+**MVVM Architecture**
+**Room Database**
+**Gradle (KTS)**
 
 ---
 
@@ -82,12 +83,8 @@ Feel free to fork this repository and contribute.
 
 ## 👩‍💻 Author
 
-<div align="center">
-
 📍 [GitHub: sarahholtsher-source](https://github.com/sarahholtsher-source)
 📍 [GitHub: dharmabit](https://github.com/dharmabit)
 📍 [Portfolio](https://dharmabit.pages.dev/)
-
-</div>
 
 </div>
