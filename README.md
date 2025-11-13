@@ -9,82 +9,118 @@
 ![Gradle](https://img.shields.io/badge/Build-Gradle-green?style=flat-square)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-dharmabit.pages.dev-purple?style=flat-square)](https://dharmabit.pages.dev/)
 
+</div>
+
+<div align="center">
+ 
+A clean and minimalistic notes application built using **Kotlin** and **Jetpack Compose**. It supports creating, editing, deleting, and securing notes with a **custom PIN lock**.
+
+</div>
+
 ---
 
-A clean and minimalistic notes application built using **Kotlin** and **Jetpack Compose**.
-It supports creating, editing, deleting, and securing notes with a **custom PIN lock**, ensuring your private notes stay protected.
+<div align="center">
 
----
-
-## ✨ Features
+ ## ✨ Features
 
 🗒️ Create, edit, and delete notes
+-
 🔐 Secure notes with a PIN
+-
 💾 Automatic saving with Room persistence
+-
 🌙 Modern UI powered by Jetpack Compose
+-
 ⚡ Fast, lightweight, and easy to use
+-
+</div>
 
 ---
+
+<div align="center">
+
 
 ## 🛠️ Tech Stack
 
-**Kotlin**
-**Jetpack Compose**
-**MVVM Architecture**
-**Room Database**
-**Gradle (KTS)**
+* **Kotlin**
+* **Jetpack Compose**
+* **MVVM Architecture**
+* **Room Database**
+* **Gradle (KTS)**
+
+</div>
 
 ---
+
+<div align="center">
+
 
 ## 🚀 Installation
 
 Clone the repository:
 
+<div align="center">
+
 ```bash
 git clone https://github.com/sarahholtsher-source/Notes.git
 ```
+</div>
 
-Steps:
+### Steps:
 
-1. Open the project using **Android Studio**
-2. Sync Gradle
-3. Run on an emulator or physical device
-
+Open the project using **Android Studio**
+-
+Sync Gradle
+-
+Run on an emulator or physical device
+--
 ---
+
+</div>
+
+<div align="center">
 
 ## 🧩 Project Structure
 
-```
+<div align="center">
+
+ ```
 app/
  ├── ui/        # UI components & screens
  ├── data/      # Room entities, DAO, repository
  ├── security/  # PIN lock & encryption utilities
 ```
+</div>
 
 ---
+</div>
+
+<div align="center">
 
 ![App Logo](app/src/main/ic_launcher-playstore.png)
 
 ---
 
+</div>
+
+<div align="center">
+
+
 ## 📜 License
 
-This project is licensed under **GPL-3.0**.
-See the [LICENSE](./LICENSE) file for details.
+This project is licensed under **GPL-3.0**. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 🤝 Contributing
+</div>
 
-Pull requests, issues, and feature suggestions are welcome.
-Feel free to fork this repository and contribute.
+<div align="center">
 
----
 
 ## 👩‍💻 Author
 
-📍 [GitHub: sarahholtsher-source](https://github.com/sarahholtsher-source)
-📍 [GitHub: dharmabit](https://github.com/dharmabit)
+📍 [GitHub Profile](https://github.com/sarahholtsher-source)
+📍 [GitHub Profile](https://github.com/dharmabit)
 📍 [Portfolio](https://dharmabit.pages.dev/)
 
 </div>
