@@ -3,46 +3,50 @@
 [![GitHub stars](https://img.shields.io/github/stars/sarahholtsher-source/Notes?style=flat-square)](https://github.com/sarahholtsher-source/Notes/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/sarahholtsher-source/Notes?style=flat-square)](https://github.com/sarahholtsher-source/Notes/network)
 [![License](https://img.shields.io/github/license/sarahholtsher-source/Notes?style=flat-square)](./LICENSE)
-[![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue?style=flat-square)](https://kotlinlang.org/)
-[![Build with Gradle](https://img.shields.io/badge/Build-Gradle-green?style=flat-square)](https://gradle.org/)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue?style=flat-square)
+![Gradle](https://img.shields.io/badge/Build-Gradle-green?style=flat-square)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-dharmabit.pages.dev-purple?style=flat-square)](https://dharmabit.pages.dev/)
 
 ---
 
-A simple Android notes application built with **Kotlin** and **Jetpack Compose**.  
-You can create, edit, and delete notes — and secure specific notes with a **PIN lock** for privacy.
+A clean and minimalistic notes application built using **Kotlin** and **Jetpack Compose**.
+It supports creating, editing, deleting, and securing notes with a **custom PIN lock**, ensuring your private notes stay protected.
 
 ---
 
 ## ✨ Features
 
-- 🗒️ Create, edit, and delete notes  
-- 🔐 Lock notes with a custom PIN  
-- 🔄 Auto-save and persistent storage  
-- 🌙 Simple, modern UI built with Jetpack Compose  
-- 💾 Lightweight and fast  
+* 🗒️ Create, edit, and delete notes
+* 🔐 Secure notes with a PIN
+* 💾 Automatic saving with Room persistence
+* 🌙 Modern UI powered by Jetpack Compose
+* ⚡ Fast, lightweight, and easy to use
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Language:** Kotlin  
-- **UI:** Jetpack Compose  
-- **Architecture:** MVVM  
-- **Database:** Room  
-- **Build System:** Gradle (KTS)  
+* **Kotlin**
+* **Jetpack Compose**
+* **MVVM Architecture**
+* **Room Database**
+* **Gradle (KTS)**
 
 ---
 
 ## 🚀 Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/sarahholtsher-source/Notes.git
-````
+Clone the repository:
 
-2. Open it in **Android Studio**.
-3. Sync Gradle and run the app on an emulator or your device.
+```bash
+git clone https://github.com/sarahholtsher-source/Notes.git
+```
+
+Steps:
+
+1. Open the project using **Android Studio**
+2. Sync Gradle
+3. Run on an emulator or physical device
 
 ---
 
@@ -50,9 +54,9 @@ You can create, edit, and delete notes — and secure specific notes with a **PI
 
 ```
 app/
- ├── ui/         
- ├── data/         
- ├── security/   
+ ├── ui/        # UI components & screens
+ ├── data/      # Room entities, DAO, repository
+ ├── security/  # PIN lock & encryption utilities
 ```
 
 ---
@@ -65,18 +69,20 @@ app/
 
 ## 📜 License
 
-This project is licensed under the **GPL-3.0 License** — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under **GPL-3.0**.
+See the [LICENSE](./LICENSE) file for details.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-Feel free to fork this repository and submit a pull request.
+Pull requests, issues, and feature suggestions are welcome.
+Feel free to fork this repository and contribute.
 
 ---
 
 ## 👩‍💻 Author
-📍 [GitHub Profile](https://github.com/sarahholtsher-source)
-📍 [GitHub Profile](https://github.com/dharmabit)
-🌐 [Portfolio](https://dharmabit.pages.dev/)
+
+* [GitHub: sarahholtsher-source](https://github.com/sarahholtsher-source)
+* [GitHub: dharmabit](https://github.com/dharmabit)
+* 🌐 Portfolio: [dharmabit.pages.dev](https://dharmabit.pages.dev/)
