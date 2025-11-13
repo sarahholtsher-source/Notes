@@ -1,5 +1,5 @@
 <div align="center">
-# 📝 Notes App
+## 📝 Notes App
 
 [![GitHub stars](https://img.shields.io/github/stars/sarahholtsher-source/Notes?style=flat-square)](https://github.com/sarahholtsher-source/Notes/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/sarahholtsher-source/Notes?style=flat-square)](https://github.com/sarahholtsher-source/Notes/network)
@@ -17,21 +17,21 @@ It supports creating, editing, deleting, and securing notes with a **custom PIN 
 
 ## ✨ Features
 
-* 🗒️ Create, edit, and delete notes
-* 🔐 Secure notes with a PIN
-* 💾 Automatic saving with Room persistence
-* 🌙 Modern UI powered by Jetpack Compose
-* ⚡ Fast, lightweight, and easy to use
+ 🗒️ Create, edit, and delete notes
+ 🔐 Secure notes with a PIN
+ 💾 Automatic saving with Room persistence
+ 🌙 Modern UI powered by Jetpack Compose
+ ⚡ Fast, lightweight, and easy to use
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Kotlin**
-* **Jetpack Compose**
-* **MVVM Architecture**
-* **Room Database**
-* **Gradle (KTS)**
+ **Kotlin**
+ **Jetpack Compose**
+ **MVVM Architecture**
+ **Room Database**
+ **Gradle (KTS)**
 
 ---
 
@@ -61,8 +61,6 @@ app/
 ```
 
 ---
-
-## 🖼️ App Logo
 
 ![App Logo](app/src/main/ic_launcher-playstore.png)
 
