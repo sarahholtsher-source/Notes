@@ -1,4 +1,3 @@
-````markdown
 # 📝 Notes App
 
 [![GitHub stars](https://img.shields.io/github/stars/sarahholtsher-source/Notes?style=flat-square)](https://github.com/sarahholtsher-source/Notes/stargazers)
@@ -84,5 +83,3 @@ Feel free to fork this repository and submit a pull request.
 📍 [GitHub Profile](https://github.com/sarahholtsher-source)
 📍 [GitHub Profile](https://github.com/dharmabit)
 🌐 [Portfolio](https://dharmabit.pages.dev/)
-
-```
