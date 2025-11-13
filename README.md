@@ -29,7 +29,7 @@ You can create, edit, and delete notes — and secure specific notes with a **PI
 - **Language:** Kotlin  
 - **UI:** Jetpack Compose  
 - **Architecture:** MVVM  
-- **Database:** Room
+- **Database:** Room  
 - **Build System:** Gradle (KTS)  
 
 ---
@@ -39,46 +39,28 @@ You can create, edit, and delete notes — and secure specific notes with a **PI
 1. Clone this repository:
    ```bash
    git clone https://github.com/sarahholtsher-source/Notes.git
-````
+Open it in Android Studio.
+Sync Gradle and run the app on an emulator or your device.
 
-2. Open it in **Android Studio**.
-3. Sync Gradle and run the app on an emulator or your device.
-
----
-
-## 🧩 Project Structure
-
-```
+🧩 Project Structure
+kotlin
+Copy code
 app/
  ├── ui/         
  ├── data/         
  ├── security/   
-```
 
----
+🖼️ App Logo
 
-## 🖼️ App Logo
+📜 License
+This project is licensed under the GPL-3.0 License — see the LICENSE file for details.
 
-![App Logo](app/src/main/ic_launcher-playstore.png)
-
----
-
-## 📜 License
-
-This project is licensed under the **GPL-3.0 License** — see the [LICENSE](./LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and submit a pull request.
 
----
-
-## 👩‍💻 Author
-
-**Sarah Holtsher**
+👩‍💻 Author
+Sarah Holtsher
 📍 [GitHub Profile](https://github.com/sarahholtsher-source)
 📍 [GitHub Profile](https://github.com/dharmabit)
 🌐 [Portfolio](https://dharmabit.pages.dev/)
