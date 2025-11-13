@@ -1,3 +1,4 @@
+<div align="center">
 # 📝 Notes App
 
 [![GitHub stars](https://img.shields.io/github/stars/sarahholtsher-source/Notes?style=flat-square)](https://github.com/sarahholtsher-source/Notes/stargazers)
@@ -83,6 +84,12 @@ Feel free to fork this repository and contribute.
 
 ## 👩‍💻 Author
 
-* [GitHub: sarahholtsher-source](https://github.com/sarahholtsher-source)
-* [GitHub: dharmabit](https://github.com/dharmabit)
-* 🌐 Portfolio: [dharmabit.pages.dev](https://dharmabit.pages.dev/)
+<div align="center">
+
+📍 [GitHub: sarahholtsher-source](https://github.com/sarahholtsher-source)
+📍 [GitHub: dharmabit](https://github.com/dharmabit)
+📍 [Portfolio](https://dharmabit.pages.dev/)
+
+</div>
+
+</div>
