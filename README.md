@@ -29,7 +29,7 @@ You can create, edit, and delete notes — and secure specific notes with a **PI
 - **Language:** Kotlin  
 - **UI:** Jetpack Compose  
 - **Architecture:** MVVM  
-- **Database:** Room (if used in code)  
+- **Database:** Room
 - **Build System:** Gradle (KTS)  
 
 ---
@@ -50,17 +50,16 @@ You can create, edit, and delete notes — and secure specific notes with a **PI
 
 ```
 app/
- ├── ui/           # Compose UI components
- ├── data/         # Models, Room database, DAO
- ├── viewmodel/    # ViewModel logic
- └── util/         # Helper and utility classes
+ ├── ui/         
+ ├── data/         
+ ├── security/   
 ```
 
 ---
 
 ## 🖼️ App Logo
 
-![App Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![App Logo](app/src/main/ic_launcher-playstore.png)
 
 ---
 
